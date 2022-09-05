@@ -1,0 +1,61 @@
+{
+    "LocationsComparisonOriginalJson": {
+        "NOT in RootK locations list": [
+            "sea",
+            "tko",
+            "chi",
+            "lax",
+            "mnz",
+            "lhr",
+            "dfw",
+            "sin",
+            "was",
+            "dca",
+            "nyc",
+            "sto",
+            "mrs",
+            "iad",
+            "sfo",
+            "oak",
+            "lcy",
+            "pao",
+            "bur",
+            "ein",
+            "pek",
+            "wie"
+        ],
+        "IN RootK locations list": [
+            "ams",
+            "fra",
+            "lon",
+            "par",
+            "ham",
+            "tyo",
+            "mia"
+        ]
+    },
+    "Location Countries": {
+        "sea": "us",
+        "tko": "jp",
+        "chi": "us",
+        "lax": "us",
+        "mnz": "us",
+        "lhr": "en",
+        "dfw": "us",
+        "sin": "sg",
+        "was": "us",
+        "dca": "us",
+        "nyc": "us",
+        "sto": "se",
+        "mrs": "fr",
+        "iad": "us",
+        "sfo": "us",
+        "oak": "us",
+        "lcy": "en",
+        "pao": "us",
+        "bur": "us",
+        "ein": "nl",
+        "pek": "cn",
+        "wie": "at"
+    }
+}
