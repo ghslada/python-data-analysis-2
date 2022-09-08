@@ -17,7 +17,7 @@ def parseRootAHostname( answers ) :
 
         answerFromCountry = answer.split('-', 2)[1]
             
-        print(answerFromCountry)
+        # print(answerFromCountry)
 
         answerFromCountry = re.sub(r'[0-9]', '', answerFromCountry)
 
@@ -101,7 +101,7 @@ def parseMetrics (filePath) :
 
                             answers = resultado['answers']
 
-                            print(answers)                
+                            # print(answers)                
 
                             # Se houver alguma resposta no array
 

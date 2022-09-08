@@ -15,7 +15,7 @@ def parseRootKHostnameLocation( answers ) :
 
     answerFromCountry = ''
 
-    print(answer)
+    # print(answer)
 
     if ('-' in answer ) :
 
@@ -35,12 +35,12 @@ def parseRootKHostnameLocation( answers ) :
 
         answerFromCountry = re.sub(r'-', '', answerFromCountry)
         
-        print(answerFromCountry)
+        # print(answerFromCountry)
         
     else :
 
         answerFromCountry = answer
-        print(answerFromCountry)
+        # print(answerFromCountry)
         # exit()
     
     return answerFromCountry
