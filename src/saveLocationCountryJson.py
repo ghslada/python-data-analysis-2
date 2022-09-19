@@ -1,15 +1,8 @@
 
     
 from os import remove
-import re
-from ast import For
-import pandas as pd
-import matplotlib.pyplot as plt
 import json
-import rootKParse
-import saveLocationCountryJson
 from pathlib import Path
-import re
 
 
 def saveLocationsFromRootA(data) :

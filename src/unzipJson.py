@@ -1,9 +1,7 @@
 import json
 import bz2
-import os
 
 from pathlib import Path
-import re
 
 filePaths = ['../probesData/20220824.json.bz2', '../probesData/20170824.json.bz2']
 

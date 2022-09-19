@@ -1,16 +1,15 @@
 {
-    "NOT in RootK locations list": [
-        "hkg",
-        "wdc",
-        "CSF",
-        "dns",
-        "NDC"
-    ],
+    "NOT in RootK locations list": [],
     "IN RootK locations list": [
         "fra",
         "nyc",
         "lax",
+        "hkg",
         "lon",
+        "wdc",
+        "CSF",
+        "dns",
+        "NDC",
         "ams",
         "sea",
         "tko",
